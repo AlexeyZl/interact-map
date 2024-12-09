@@ -1,0 +1,11 @@
+#map svg{
+    max-width: 100%;
+}
+
+path{
+    transition: fill 1.2s ease;
+}
+path:hover{
+    fill: #0e0255;
+    cursor: pointer;
+}
